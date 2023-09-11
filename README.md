@@ -3,7 +3,4 @@ Hey There! Welcome to my journey of dissecting and exploring the corners of Tran
 
 This entire exercise is carried out in [Makerchip IDE](https://www.makerchip.com/) courtesy of [Redwood EDA](https://www.redwoodeda.com/).
 
-
-
- 
-
+![RedWoodLogo](https://github.com/akarxxx1030/100DaysOfTLV/assets/102870828/8619ec84-6399-420b-8b87-0069d0200445)
