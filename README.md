@@ -8,3 +8,4 @@ This entire exercise is carried out in [Makerchip IDE](https://www.makerchip.com
 Day | Makerchip IDE | Content Elaboration
 ---|---|---
 1 |[CombinatorialLogicRundown.tlv](https://www.makerchip.com/sandbox?code_url=https:%2F%2Fraw.githubusercontent.com%2Fakarxxx1030%2F100DaysOfTLV%2Fmain%2FDay1%2FCombinatorialLogicRundown.tlv) | [Day1.md](https://github.com/akarxxx1030/100DaysOfTLV/blob/main/Day1/Day1.md)
+2 | [CombinatorialLogicExtended.tlv](https://makerchip.com/sandbox/0ADf9h8nJ/0Lghyp#) | [Day2.md](https://github.com/akarxxx1030/100DaysOfTLV/blob/main/Day2/Day2.md)
