@@ -11,8 +11,6 @@
    // stimulus support, and Verilator config.
    m5_makerchip_module   // (Expanded in Nav-TLV pane.)
 \TLV
-   //$reset = *reset;
-   
    //half-adder
    $sum = $aa ^ $bb;
    $carry = $aa && $bb;
@@ -28,7 +26,7 @@
    //2:1multiplexer
    $output = $signal? $in1:$in2;
    
-   //4:1multiplexer
+   //4:1multiplexerHierarchical
    $output1 = $signal1? $input1:$input2;
    $output2 = $signal2? $input3:$input4;
    $output = $signal3? $output1:$output2;
