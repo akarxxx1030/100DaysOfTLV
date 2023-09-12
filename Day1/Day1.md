@@ -2,60 +2,64 @@
 ## Inverter
 Inverts the input logic signal and thus produces a complemented output.
 ### Truth Table
-```
-Input   |   Output
+
+Input | Output
+---|---
   A     |     Y
   1     |     0
   0     |     1
-```
+
 >TL-Verilog provides a notation '!' to help accomplish the inversion of a particular signal value.
 ## AND Gate
 Performs bit-wise AND-ing between input signal bits.
 ### Truth Table
-```
+
 Inputs   |   Output
+---|---
 A    B   |     Y
 0    0   |     0
 0    1   |     0
 1    0   |     0
 1    1   |     1
-```
+
 >TL-Verilog provides a notation '&&' to help accomplish the inversion of a particular signal value.
 ## OR Gate
 Performs bit-wise OR-ing between input signal bits.
 ### Truth Table
-```
+
 Inputs   |   Output
+---|---
 A    B   |     Y
 0    0   |     0
 0    1   |     1
 1    0   |     1
 1    1   |     1
-```
+
 >TL-Verilog provides a notation '||' to help accomplish the inversion of a particular signal value.
 ## XOR Gate
 Performs bit-wise XOR-ing between input signal bits.
 ### Truth Table
-```
+
 Inputs   |   Output
 A    B   |     Y
 0    0   |     0
 0    1   |     1
 1    0   |     1
 1    1   |     0
-```
+
 >TL-Verilog provides a notation '^' to help accomplish the inversion of a particular signal value.
 ## XNOR Gate
 Performs bit-wise XNOR-ing between input signal bits.
 ### Truth Table
-```
+
 Inputs   |   Output
+---|---
 A    B   |     Y
 0    0   |     1
 0    1   |     0
 1    0   |     0
 1    1   |     1
-```
+
 >TL-Verilog provides a notation '!(^)' to help accomplish the inversion of a particular signal value.
 ---
 ## Code Snippet 
