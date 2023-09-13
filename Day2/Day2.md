@@ -93,3 +93,6 @@ Exercise 5: Building a 4:1 Multiplexer
 
 
 
+<img width="101" alt="2" src="https://github.com/akarxxx1030/100DaysOfTLV/assets/102870828/9caec348-b296-4a66-9739-1e37e40ce2f4">
+<img width="511" alt="2wav" src="https://github.com/akarxxx1030/100DaysOfTLV/assets/102870828/7b57cbc6-3db0-46e6-80cd-0690a73cb7ad">
+
