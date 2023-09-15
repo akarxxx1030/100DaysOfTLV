@@ -8,5 +8,6 @@ This entire exercise is carried out in [Makerchip IDE](https://www.makerchip.com
 Day | Makerchip IDE | Content Elaboration
 ---|---|---
 1 |[CombinatorialLogicRundown.tlv](https://www.makerchip.com/sandbox?code_url=https:%2F%2Fraw.githubusercontent.com%2Fakarxxx1030%2F100DaysOfTLV%2Fmain%2FDay1%2FCombinatorialLogicRundown.tlv) | [Day1.md](https://github.com/akarxxx1030/100DaysOfTLV/blob/main/Day1/Day1.md)
-2 | [CombinatorialLogicExtended.tlv](https://makerchip.com/sandbox/0ADf9h8nJ/0Lghyp#) | [Day2.md](https://github.com/akarxxx1030/100DaysOfTLV/blob/main/Day2/Day2.md)
-3 | [SequentialScope.tlv](https://makerchip.com/sandbox/#) | [Day3.md](https://github.com/akarxxx1030/100DaysOfTLV/blob/main/Day3/Day3.md)
+2 | [CombinatorialLogicExtended.tlv](https://www.makerchip.com/sandbox?code_url=https:%2F%2Fraw.githubusercontent.com%2Fakarxxx1030%2F100DaysOfTLV%2Fmain%2FDay2%2FCombinatorialLogicExtended.tlv) | [Day2.md](https://github.com/akarxxx1030/100DaysOfTLV/blob/main/Day2/Day2.md)
+3 | [SequentialScope.tlv](https://www.makerchip.com/sandbox?code_url=https:%2F%2Fraw.githubusercontent.com%2Fakarxxx1030%2F100DaysOfTLV%2Fmain%2FDay3%2FSequentialScope.tlv)| [Day3.md](https://github.com/akarxxx1030/100DaysOfTLV/blob/main/Day3/Day3.md)
+4 | 
