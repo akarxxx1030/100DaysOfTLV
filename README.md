@@ -16,6 +16,8 @@ Day | Makerchip IDE | Content Elaboration
 7 | [RippleCarryAdder.tlv](https://www.makerchip.com/sandbox?code_url=https:%2F%2Fraw.githubusercontent.com%2Fakarxxx1030%2F100DaysOfTLV%2Fmain%2FDay7%2FRippleCarryAdder.tlv) | [Day7.md](https://github.com/akarxxx1030/100DaysOfTLV/blob/main/Day7/Day7.md)
 8 | [FPGAMultiplier.tlv](https://www.makerchip.com/sandbox?code_url=https:%2F%2Fraw.githubusercontent.com%2Fakarxxx1030%2F100DaysOfTLV%2Fmain%2FDay8%2Fmultiplier.tlv) | [Day8.md](https://github.com/akarxxx1030/100DaysOfTLV/blob/main/Day8/Day8.md)
 9 | [LongDivision.tlv](https://www.makerchip.com/sandbox?code_url=https:%2F%2Fraw.githubusercontent.com%2Fakarxxx1030%2F100DaysOfTLV%2Fmain%2FDay9%2FLongDivision.tlv) | [Day9.md](https://github.com/akarxxx1030/100DaysOfTLV/blob/main/Day9/Day9.md)
+10 | [32bitALU.tlv](https://www.makerchip.com/sandbox?code_url=https:%2F%2Fraw.githubusercontent.com%2Fakarxxx1030%2F100DaysOfTLV%2Fmain%2FDay10%2F32bitALU.tlv) | [Day10.md](https://github.com/akarxxx1030/100DaysOfTLV/blob/main/Day10/Day10.md)
+
 
 
 
